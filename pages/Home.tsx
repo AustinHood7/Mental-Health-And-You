@@ -82,6 +82,7 @@ const HomePage = () => {
                         and a better approach to situations, we <span className="font-bold">guarantee</span> a better outlook on any issues that life
                         brings your way.
                     </p>
+                    <p>Hello</p>
                     <p className="home-text leading-12 text-2xl mt-2 mb-10">
                         If you are interested, please contact us via our <span className="font-bold">contact page</span>, or through our{" "}
                         <span className="font-bold">chat tab function</span> at the bottom right of the page!
